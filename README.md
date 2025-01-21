@@ -10,7 +10,7 @@ Query 1 -> query1.ipynb
 
 Query 2 -> query2.ipynb
 
-Query 3 -> query3_final.ipynb
+Query 3 -> query3_final.ipynb (Το τελικό αποτέλεσμα φαίνεται στον πίνακα με attributes : Community | CrimesPerCapita | IncomePerCapita)
 
 Query 4
 
