@@ -12,16 +12,20 @@ Query 2 -> query2.ipynb
 
 Query 3 -> query3_final.ipynb
 
-Query 4:
+Query 4
+
 Ανάλογα με το configuration:
+
 - 1 core/2 GB memory -> query4_1c.ipynb
   
 - 2 cores/4GB memory -> query4_2c.ipynb
 
 - 4 cores/8GB memory -> query4_3c.ipynb
 
-Query 5:
+Query 5
+
 Ανάλογα με το configuration:
+
 - 2 executors × 4 cores/8GB memory -> query5_1c.ipynb
   
 - 4 executors × 2 cores/4GB memory -> query5_2c.ipynb
